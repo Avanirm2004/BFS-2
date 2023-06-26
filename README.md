@@ -1,2 +1,3 @@
 # BFS-2
-python
+this is my first repository
+this is my commit 
